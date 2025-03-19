@@ -71,5 +71,7 @@ wget -q https://raw.githubusercontent.com/alecssdeveloper/premium/main/update.sh
 
 ### WHATSAPP 
 <p align="center"><b>
-<a href="wa.me/+40732159658" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400"></a>
+<a href="https://wa.me/40732159658" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400"></a>
+</p>
+
 
