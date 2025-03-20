@@ -62,6 +62,7 @@ wget -q https://raw.githubusercontent.com/alecssdeveloper/premium/main/update.sh
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
+![WhatsApp Image 2025-03-20 at 08 16 45_7386dc28](https://github.com/user-attachments/assets/1012c600-b6ca-418f-94a7-c8cd9086d4f5)
 
 ### CONTACT INFORMATION
 
